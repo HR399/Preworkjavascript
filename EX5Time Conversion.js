@@ -1,3 +1,4 @@
+//git hub exercise
 function time_conversion(n){
     var num = n;
     var hours = (n/60);
